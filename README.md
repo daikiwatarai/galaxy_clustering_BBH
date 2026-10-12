@@ -49,5 +49,5 @@ from a clone.  `geometry_z0to1.npz` likewise comes from GWFish Fisher tables (~1
 
 ## Citation
 
-D.Watarai, H.Imafuku, and F.Chuman, *Galaxy Clustering Can Reveal Host-Galaxy Properties of Binary Black Hole Mergers*,
+Daiki Watarai, Hayato Imafuku, and Fumihiro Chuman, *Galaxy Clustering Can Reveal Host-Galaxy Properties of Binary Black Hole Mergers*,
 [arXiv:2610.11045](https://arxiv.org/abs/2610.11045).
